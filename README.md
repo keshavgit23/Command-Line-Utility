@@ -27,10 +27,10 @@ javac CssHelp.java
 
 # How to Run
 
-java CssHelp color
-java CssHelp background
-java CssHelp text
-java CssHelp box
+- java CssHelp color
+- java CssHelp background
+- java CssHelp text
+- java CssHelp box
 
 # Example Output
 
