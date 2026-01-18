@@ -19,7 +19,7 @@ The tool accepts a CSS topic as a command-line argument and displays related CSS
 - color
 - background
 - text
-- box / boxmodel
+- boxmodel
 
 # How to Compile
 
