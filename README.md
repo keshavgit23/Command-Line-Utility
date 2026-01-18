@@ -35,7 +35,7 @@ javac CssHelp.java
 # Example Output
 
 Color Properties
-color
+- color
 
 # Technologies Used
 
