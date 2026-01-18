@@ -42,3 +42,5 @@ Color Properties
 - Java
 - Command Line Interface (CLI)
 
+### Output - Background
+![Output Background! Screenshot](screenshots/output-background.png)
