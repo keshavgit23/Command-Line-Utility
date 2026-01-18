@@ -1,12 +1,12 @@
-#CSS Help – Command Line Utility
+# CSS Help – Command Line Utility
 
-#Description
+# Description
 
 CSS Help is a Java-based command-line utility that helps users quickly view commonly used CSS properties based on a given topic.
 
 The tool accepts a CSS topic as a command-line argument and displays related CSS properties.
 
-#Features
+# Features
 
 - Command-line based utility
 - Supports multiple CSS topics
@@ -14,34 +14,31 @@ The tool accepts a CSS topic as a command-line argument and displays related CSS
 - Clean and simple output
 - Uses Java interfaces and polymorphism
 
-#Supported Topics
+# Supported Topics
 
 - color
 - background
 - text
 - box / boxmodel
 
-#How to Compile
+# How to Compile
 
 javac CssHelp.java
 
-#How to Run
+# How to Run
 
 java CssHelp color
 java CssHelp background
 java CssHelp text
 java CssHelp box
 
-#Example Output
+# Example Output
 
 Color Properties
 color
 
-#Technologies Used
+# Technologies Used
 
 - Java
 - Command Line Interface (CLI)
 
-#Author
-
-Krish Pawar
