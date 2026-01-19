@@ -50,3 +50,7 @@ Color Properties
 
 ### Output - Text
 ![Output Text! Screenshot](screenshots/output-text.png)
+
+## Demo Video
+
+Link of the Youtube Video: https://www.youtube.com/watch?v=HbEPg7VK8B0
